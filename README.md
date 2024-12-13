@@ -1,6 +1,6 @@
 # 🚀 Java Instrumentation API
 
-**Java Instrumentation API**는 **Java Virtual Machine (JVM)**에서 **클래스를 로드하거나 이미 로드된 클래스를 동적으로 변경**할 수 있는 기능을 제공합니다.  
+**Java Instrumentation API**는 Java Virtual Machine (JVM)에서 **클래스를 로드하거나 이미 로드된 클래스를 동적으로 변경**할 수 있는 기능을 제공합니다.  
 주로 **Java Agent**와 함께 사용되며, 프로그램 실행 중 **클래스의 바이트코드를 수정**하거나 **새로운 클래스를 동적으로 추가**하는 작업을 수행할 수 있습니다.
 
 ---
